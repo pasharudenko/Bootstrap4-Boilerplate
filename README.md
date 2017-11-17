@@ -1,3 +1,2 @@
 # Bootstrap4-Boilerplate
-
-in src folder must be create three more directories: img folder, js folder and css folder
+To install create three more folders in src directory: img, css ,js then type npm install from a command line
